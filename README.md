@@ -21,7 +21,7 @@ The current hyperinflation period in Turkey has led to significant changes in co
 ## Data Sources
 To investigate the research question, the following data sources could be used:
 1. **TÜİK:** TÜİK is the Turkish Statistical Institute that provides a vast amount of data on food and beverage industry revenues, consumer spending habits, retail sales, and inflation rates in Turkey.
-2. **Online food ordering platforms:** Analyzing data from online food ordering platforms, such as Yemeksepeti or Getir, can provide insights into consumer preferences and spending habits for different types of food and beverage establishments.
+2. **Online food ordering platforms:** Analyzing data from online food ordering platforms, such as Yemeksepeti or Getir, can provide insights into consumer preferences and spending habits for different types of food and beverage establishments. These datasets can be accessed through [Google Drive](https://drive.google.com/drive/folders/1l4J1IXDtvGCOBzbD7jX-Y-Kud4FOj86S?usp=sharing).
 3. **Social media:** Analyzing data from social media platforms such as Instagram, can provide insights into consumer behavior, preferences, and trends related to food and beverage industry in Turkey.
 
 ## Methods
