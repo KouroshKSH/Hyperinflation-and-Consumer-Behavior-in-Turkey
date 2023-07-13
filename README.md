@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://github.com/KouroshKSH/Hyperinflation-and-Consumer-Behavior-in-Turkey/blob/master/images/banner.png">
 </p>
-
+ 
 # Hyperinflation and Consumer Behavior in Turkey
-Our project aims to investigate the effects of hyperinflation on consumer behavior in the food and beverage industry in Turkey using time series and sentiment analysis.
+The aim of this project is to investigate the effects of hyperinflation on consumer behavior in the food and beverage industry in Turkey using time series and sentiment analysis.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter">
